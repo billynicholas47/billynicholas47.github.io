@@ -1,9 +1,7 @@
-  =>  Template Name    : ProMan - Personal Portfolio HTML Template
+  =>  Name    : Personal Portfolio Website
 
-  =>  Template Link    : https://htmlcodex.com/personal-portfolio-html-template
+  =>  Link    : https://billynicholas47.github.io
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+  =>  License : GNU Public License
 
-  =>  Template Author  : HTML Codex
-
-  =>  Author Website   : https://htmlcodex.com
+  =>  Author  : billy nicholas
